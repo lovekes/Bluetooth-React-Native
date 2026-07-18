@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B53F02A9-EF00-4681-976A-3F07A05D9C06"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BBBF967-FD3E-4803-A8B3-24D137A318CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BleNativeModule.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "isBluetoothEnabled(resolve:rejecter:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "113D9131-4685-4368-B1D2-E06368917EDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BleNativeModule.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "startScan(_:resolver:rejecter:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E6559AA-BCDF-4350-A600-7DFA072A7947"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BLETaskApp/BleNativeModule.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "subscribeCharacteristic(peripheral:deviceId:serviceUUID:characteristicUUID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E6559AA-BCDF-4350-A600-7DFA072A7947 - 2ff95dedcfd1ce2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BLETaskApp.BleNativeModule.subscribeCharacteristic(peripheral: __C.CBPeripheral, deviceId: Swift.String, serviceUUID: Swift.String, characteristicUUID: Swift.String) -&gt; ()"
+                  moduleName = "BLETaskApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokeshkumawat/Documents/ReactNative/wwwww/BLETaskApp/ios/BLETaskApp/BleNativeModule.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162">
+               </Location>
+               <Location
+                  uuid = "5E6559AA-BCDF-4350-A600-7DFA072A7947 - a547beee938cfd78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CBService) -&gt; Swift.Bool in BLETaskApp.BleNativeModule.subscribeCharacteristic(peripheral: __C.CBPeripheral, deviceId: Swift.String, serviceUUID: Swift.String, characteristicUUID: Swift.String) -&gt; ()"
+                  moduleName = "BLETaskApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokeshkumawat/Documents/ReactNative/wwwww/BLETaskApp/ios/BLETaskApp/BleNativeModule.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C0D861C-3977-468D-A8A3-ED4ACF168258"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BLETaskApp/BleNativeModule.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "subscribeCharacteristic(peripheral:deviceId:serviceUUID:characteristicUUID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D788ACD-C026-4AEA-9E9E-9B1B127391B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BLETaskApp/BleNativeModule.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "subscribeCharacteristic(peripheral:deviceId:serviceUUID:characteristicUUID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D788ACD-C026-4AEA-9E9E-9B1B127391B6 - 2ff95dedcfd13136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BLETaskApp.BleNativeModule.subscribeCharacteristic(peripheral: __C.CBPeripheral, deviceId: Swift.String, serviceUUID: Swift.String, characteristicUUID: Swift.String) -&gt; ()"
+                  moduleName = "BLETaskApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokeshkumawat/Documents/ReactNative/wwwww/BLETaskApp/ios/BLETaskApp/BleNativeModule.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170">
+               </Location>
+               <Location
+                  uuid = "4D788ACD-C026-4AEA-9E9E-9B1B127391B6 - 6e2c396ad05a58c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.CBCharacteristic) -&gt; Swift.Bool in BLETaskApp.BleNativeModule.subscribeCharacteristic(peripheral: __C.CBPeripheral, deviceId: Swift.String, serviceUUID: Swift.String, characteristicUUID: Swift.String) -&gt; ()"
+                  moduleName = "BLETaskApp.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lokeshkumawat/Documents/ReactNative/wwwww/BLETaskApp/ios/BLETaskApp/BleNativeModule.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

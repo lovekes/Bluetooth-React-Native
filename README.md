@@ -86,6 +86,16 @@ You've successfully run and modified your React Native App. :partying_face:
 
 BLETaskApp is a React Native app for scanning, connecting to, and reading/writing Bluetooth Low Energy (BLE) devices. It uses a **custom native bridge** (no third-party BLE plugin) so the exact scan, connection, and GATT behavior is fully under our control on both platforms.
 
+# Screenshot
+# iOS:
+<img width="320" height="693" alt="WhatsApp Image 2026-07-18 at 3 52 45 PM" src="https://github.com/user-attachments/assets/6da602d6-6082-41ba-ba8e-f52addbf6760" />
+<img width="320" height="693" alt="WhatsApp Image 2026-07-18 at 3 52 45 PM (1)" src="https://github.com/user-attachments/assets/87d0dab5-7123-42ba-8ee6-63a4715689f8" />
+
+# ANDROID:
+<img width="320" height="717" alt="WhatsApp Image 2026-07-18 at 3 53 01 PM" src="https://github.com/user-attachments/assets/4184fd87-8a4d-4bf2-b838-361b6c163157" />
+<img width="320" height="717" alt="WhatsApp Image 2026-07-18 at 3 53 01 PM (1)" src="https://github.com/user-attachments/assets/1e1e6245-75dc-455f-8d4d-8a8375dabb16" />
+
+
 ## High-level data flow
 
 ```
